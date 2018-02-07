@@ -1,6 +1,13 @@
 # inquire-js-tutorial
 
-## Project setup
+## To run project
+```
+node index.js
+```
+
+
+
+## New Inquirer Project setup guid. 
 
 ```
 // create package.json
